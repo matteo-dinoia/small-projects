@@ -1,0 +1,6 @@
+# Input / Output / Pdf
+*.pdf
+*.txt
+
+# Compiled
+*.class
